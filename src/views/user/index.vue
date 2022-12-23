@@ -4,7 +4,7 @@
  * @Author: 陈
  * @Date: 2022-08-17 17:49:00
  * @LastEditors: Andy
- * @LastEditTime: 2022-10-23 15:40:18
+ * @LastEditTime: 2022-12-23 15:03:15
 -->
 <!--
 组件功能：
@@ -12,7 +12,7 @@
 !-->
 <template>
     <div class='user'>
-        <div>用户列表</div>
+        <div>用户列表123</div>
         <el-button @click="handleGo">返回上一步</el-button>
     </div>
 </template>
