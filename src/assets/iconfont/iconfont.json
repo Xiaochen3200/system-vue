@@ -1,0 +1,184 @@
+{
+  "id": "3594855",
+  "name": "system",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "23125240",
+      "name": "主题-04",
+      "font_class": "zhuti-04",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "24849346",
+      "name": "特色主题",
+      "font_class": "tesezhuti",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "7203775",
+      "name": "主题",
+      "font_class": "zhuti",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "579551",
+      "name": "刷新",
+      "font_class": "shuaxin",
+      "unicode": "e782",
+      "unicode_decimal": 59266
+    },
+    {
+      "icon_id": "765558",
+      "name": "提醒",
+      "font_class": "shouye",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "933709",
+      "name": "数据",
+      "font_class": "shuju",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "1304884",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "1677604",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "1986997",
+      "name": "权限管理",
+      "font_class": "quanxianguanli",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "2076283",
+      "name": " 订单集合",
+      "font_class": "dingdanjihe",
+      "unicode": "e897",
+      "unicode_decimal": 59543
+    },
+    {
+      "icon_id": "2261357",
+      "name": "缩小",
+      "font_class": "suoxiao",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "2312417",
+      "name": "放大",
+      "font_class": "fangda",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "2468136",
+      "name": "权限管理",
+      "font_class": "quanxianguanli1",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "3456457",
+      "name": "设置",
+      "font_class": "shezhi1",
+      "unicode": "e70f",
+      "unicode_decimal": 59151
+    },
+    {
+      "icon_id": "5643541",
+      "name": "邮箱",
+      "font_class": "youxiang",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "7316190",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "8554985",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "9509944",
+      "name": "商品市场分析",
+      "font_class": "shangpinshichangfenxi",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "11372644",
+      "name": "帮助",
+      "font_class": "bangzhu",
+      "unicode": "e8ac",
+      "unicode_decimal": 59564
+    },
+    {
+      "icon_id": "11613944",
+      "name": "添加",
+      "font_class": "tianjia",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "12841035",
+      "name": "商品管理",
+      "font_class": "shangpinguanli",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "15394210",
+      "name": "用户",
+      "font_class": "user",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "19136112",
+      "name": "权限管理",
+      "font_class": "quanxianguanli2",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "21243181",
+      "name": "修改",
+      "font_class": "xiugai",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "25885537",
+      "name": "大数据、数据统计-09",
+      "font_class": "a-dashujushujutongji-09",
+      "unicode": "e896",
+      "unicode_decimal": 59542
+    }
+  ]
+}

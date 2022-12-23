@@ -1,9 +1,13 @@
+<!--
+ * @Descripttion: 代码书写✍️
+ * @version: 
+ * @Author: 陈
+ * @Date: 2022-08-12 15:43:46
+ * @LastEditors: Andy
+ * @LastEditTime: 2022-08-17 16:47:01
+-->
 <template>
   <div id="app">
-    <nav>
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </nav>
     <router-view/>
   </div>
 </template>
@@ -13,20 +17,20 @@
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
 }
-
-nav {
-  padding: 30px;
-
-  a {
-    font-weight: bold;
-    color: #2c3e50;
-
-    &.router-link-exact-active {
-      color: #42b983;
-    }
-  }
+html,body{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+.icon{
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.5em;
+  fill: currentColor;
+  overflow: hidden;
 }
 </style>
